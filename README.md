@@ -60,8 +60,8 @@ C32|22uF|    C/6032
 C33|22uF|    C/6032
 C34|22uF|    C/6032
 K1|  DIN41612 96pin
-L1|  inductor/choke|L1812
-L2|  inductor/choke|L1812
+L1|  220uH|L1812
+L2|  220uH|L1812
 QG1 |    50MHz 5V oscillator  |   DIL14S
 R1|  10k|R1206
 R2|  10k|R1206
