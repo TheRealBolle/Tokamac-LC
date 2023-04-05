@@ -1,6 +1,7 @@
 # Tokamac LC/Sonnet Presto 040
   
-This is a recreation of the Tokamac LC accelerator.  
+This is a recreation of the Tokamac LC accelerator. Sonnet sold the same board as the Presto 040.
+Supported Macs are the LC, LCII and Color Classic and their Performa variants.
 The schematics have been reverse engineered and a new PCB was created based on the schematics.
   
 ![fully populated board](/TokamacLC_Populated.jpg)
